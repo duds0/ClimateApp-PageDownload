@@ -21,13 +21,13 @@ export default function Home() {
           <h2 className="font-medium text-2xl md:text-3xl text-amber-400">Your weather Forecast App</h2>
         </header>
 
-        <h3 className="md:text-lg lg:font-medium w-2/3 hidden lg:block">
+        <h3 className="md:text-lg font-medium w-2/3 hidden lg:block">
           Your go-to app for instant weather updates! Built with Flutter, it
           effortlessly
           fetches and displays
           accurate weather information from the OpenWeather API for any city you desire.
         </h3>
-        <h3 className="md:text-lg lg:font-medium lg:w-2/3 w-3/4 lg:hidden">
+        <h3 className="md:text-lg font-medium lg:w-2/3 w-3/4 lg:hidden">
           <p>🌦️ Your go-to app for instant weather updates!</p>
           <p>📱Built with Flutter, it effortlessly fetches and displays accurate weather information from the OpenWeather API for any city you desire.</p>
           <p>🌍 Providing not just current weather forecasts but also a comprehensive outlook for the next 5 days, our app ensures you&apos;re always prepared for whatever nature throws your way.</p>
