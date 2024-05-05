@@ -37,7 +37,7 @@ export default function Home() {
 
         <footer className="fixed bottom-4 lg:static flex md:gap-10 gap-5 items-center">
           <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-amber-300 rounded-lg" imageSrc={androidSvg} link="https://drive.google.com/file/d/1o-ZZ1O4Cr6QR_nbQXvKI9vzPTdhG-OPT/view?usp=drive_link" ></DownloadButton>
-          <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-amber-300 rounded-lg cursor-not-allowed hover:bg-neutral-500 transition-colors" imageSrc={iosSvg} ></DownloadButton>
+          <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-neutral-500 lg:bg-amber-300 rounded-lg cursor-not-allowed hover:bg-neutral-500 transition-colors" imageSrc={iosSvg} ></DownloadButton>
         </footer>
       </main>
 
