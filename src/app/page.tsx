@@ -36,7 +36,7 @@ export default function Home() {
         </h3>
 
         <footer className="fixed bottom-4 lg:static flex md:gap-10 gap-5 items-center">
-          <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-amber-300 rounded-lg" imageSrc={androidSvg} link="/android/ClimateApp.apk" ></DownloadButton>
+          <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-amber-300 rounded-lg" imageSrc={androidSvg} link="release/android/ClimateApp.apk" ></DownloadButton>
           <DownloadButton className="flex items-center justify-center gap-2 py-3 px-5 md:py-4 md:px-8 bg-neutral-500 lg:bg-amber-300 rounded-lg cursor-not-allowed hover:bg-neutral-500 transition-colors" imageSrc={iosSvg} ></DownloadButton>
         </footer>
       </main>
