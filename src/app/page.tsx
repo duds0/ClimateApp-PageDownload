@@ -30,8 +30,8 @@ export default function Home() {
         <h3 className="md:text-lg lg:font-medium lg:w-2/3 w-3/4 lg:hidden">
           <p>🌦️ Your go-to app for instant weather updates!</p>
           <p>📱Built with Flutter, it effortlessly fetches and displays accurate weather information from the OpenWeather API for any city you desire.</p>
-          <p>🌍 Providing not just current weather forecasts but also a comprehensive outlook for the next 5 days, our app ensures you're always prepared for whatever nature throws your way.</p>
-          <p>📅 Whether you're planning outdoor activities, scheduling travel, or simply staying informed about the weather, count on our app to keep you ahead of the forecast.</p>
+          <p>🌍 Providing not just current weather forecasts but also a comprehensive outlook for the next 5 days, our app ensures you&apos;re always prepared for whatever nature throws your way.</p>
+          <p>📅 Whether you&apos;re planning outdoor activities, scheduling travel, or simply staying informed about the weather, count on our app to keep you ahead of the forecast.</p>
           <p>🌞⛈️ Download now and stay ahead of the weather with ease! 🌪️🌨️</p>
         </h3>
 
