@@ -1,3 +1,21 @@
+<img width="1920" alt="climateApp-page" src="https://github.com/duds0/climate-app-web/assets/121513090/18f5c32c-c091-4842-bcbe-f57d3f97285d">
+
+# ClimateApp Page Download
+
+- 🌦️ Your go-to app for instant weather updates!
+
+- 📱Built with Flutter, it effortlessly fetches and displays accurate weather information from the OpenWeather API for any city you desire.
+
+- 🌍 Providing not just current weather forecasts but also a comprehensive outlook for the next 5 days, our app ensures you're always prepared for whatever nature throws your way.
+
+- 📅 Whether you're planning outdoor activities, scheduling travel, or simply staying informed about the weather, count on our app to keep you ahead of the forecast.
+
+- 🌞⛈️ Download now and stay ahead of the weather with ease! 🌪️🌨️
+  
+*ClimateApp repository* -> https://github.com/duds0/Climate-App
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
